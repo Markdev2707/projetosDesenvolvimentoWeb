@@ -1,4 +1,4 @@
-# Projetos Desenvolvimento Web
+# Projetos Desenvolvimento Web Anna Bella
 
 Este repositório contém projetos desenvolvidos durante o curso **Domine Web** com o professor **Jamilton Damasceno**. O foco deste projeto específico foi criar um website simples utilizando apenas **HTML** e **CSS**, sem responsividade.
 
@@ -14,4 +14,4 @@ Este repositório contém projetos desenvolvidos durante o curso **Domine Web** 
 ## Como Usar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/projetosDesenvolvimentoWeb.git
+   git clone https://github.com/seu-usuario/projetosDesenvolvimentoWeb_AnnaBella.git
